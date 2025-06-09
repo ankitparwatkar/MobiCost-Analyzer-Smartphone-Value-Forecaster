@@ -426,7 +426,7 @@ POPULAR_MODELS = {
         {"name": "Xiaomi Redmi 12", "price": "₹10,999", "image": "images/redmi12.png"},
         {"name": "Nokia G42", "price": "₹12,499", "image": "images/g42.png"},
         {"name": "Motorola Moto G14", "price": "₹9,999", "image": "images/motorolag14.png"},
-        {"name": "Realme C55", "price": "₹11,999", "image": "images/realmeC55.png"}
+        {"name": "Realme C55", "price": "₹11,999", "image": "images/realmec55.png"}
     ],
     1: [
         {"name": "Google Pixel 7a", "price": "₹43,999", "image": "images/pixel7a.png"},
